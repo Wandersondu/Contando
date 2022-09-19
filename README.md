@@ -2,5 +2,4 @@
  Ex-contando
 
 
-Adiconando
-sas
+Apredendo a usar  os ocmando 
